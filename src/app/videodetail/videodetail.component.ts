@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'videodetail',
+  selector: 'app-videodetail',
   templateUrl: './videodetail.component.html',
   styleUrls: ['./videodetail.component.css']
 })
